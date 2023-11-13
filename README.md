@@ -11,12 +11,12 @@
 
 github下载示意图:
 
-[下载方式示意图](download_step.png)
+![下载方式示意图](download_step.png)
 
 国内的gitee下载示意图:
 
 
-[下载方式示意图](gitee_download.png)
+![下载方式示意图](gitee_download.png)
 
 ## 加入我的粉丝群获取压缩包的解压密码
 
